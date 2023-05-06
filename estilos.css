@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/*ESTILOS PARA LA ESTRUCTURA*/
+
+header, main, footer{
+    width: 100%;
+}
+
+header, footer{
+    height: 65px;
+    background-color: #ffffffaa;
+}
+
+header{
+    position: fixed;
+    top: 0;
+}
+
+footer{
+    background-color: #676767;
+    bottom: 0;
+    color: #fff;
+}
+
+.contenedor{
+    margin: auto;
+    width: 90%;
+}
+
+/*ESTILOS PARA LOS ELEMENTOS DEL CONTENIDO*/
+
+img{
+    width: 65px;
+}
+
+#portada{
+    background-image: url('oro2.jpg');
+    background-size: 100% 100%;
+    height: 60vh;
+}
+
+#fotos img{
+    width: 48%;
+    display: inline;
+}
+
+.clear{
+    clear:both;
+}
+
+/* ESTILOS PARA LAS CLASES */
+
+.texto{
+    text-align: justify;
+}
+
+.superior{
+    padding-top: 20px;
+}
+
+.inferior{
+    padding-bottom: 20px;
+}
+
+.vertical{
+    line-height: 64px;
+}
+
+.centrado{
+    text-align: center;
+}
