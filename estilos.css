@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 
-/*ESTILOS PARA LA ESTRUCTURA*/
+/* ---ESTILOS PARA LA ESTRUCTURA ---*/
 
 header, main, footer{
     width: 100%;
@@ -32,8 +32,7 @@ footer{
     width: 90%;
 }
 
-
-/*ESTILOS PARA LOS ELEMENTOS DEL CONTENIDO*/
+/* ---ESTILOS PARA LOS ELEMENTOS DEL CONTENIDO--- */
 
 #logo{
     width: 65px;
@@ -46,15 +45,14 @@ footer{
 }
 
 .doble img{
-    width: 48%;
+    width: 32%;
 }
 
 .simple img{
     width: 100%;
 }
 
-
-/* ESTILOS PARA LAS CLASES */
+/* ---ESTILOS PARA LAS CLASES--- */
 
 .texto{
     text-align: justify;
