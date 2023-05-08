@@ -44,6 +44,8 @@ footer{
     height: 60vh;
 }
 
+/* ---ESTILOS PARA LAS CLASES--- */
+
 .doble img{
     width: 32%;
 }
@@ -51,8 +53,6 @@ footer{
 .simple img{
     width: 100%;
 }
-
-/* ---ESTILOS PARA LAS CLASES--- */
 
 .texto{
     text-align: justify;
